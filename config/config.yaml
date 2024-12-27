@@ -1,0 +1,7 @@
+twitter:
+  search_query: "bitcoin OR #btc OR #bitcoin"
+  tweet_limit: 100
+  language: "en"
+
+sentiment:
+  update_interval: 300  # seconds 
