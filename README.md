@@ -1,2 +1,1 @@
-# twitter_trend_tracker
-twitter trend tracker
+trying to develop a twitter trend tracker, starting with sentiment analysis on bitcoin related tweets
